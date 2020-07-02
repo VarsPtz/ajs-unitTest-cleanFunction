@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VarsPtz/ajs-homeworks-vars-.git"
+    "url": "git+https://github.com/VarsPtz/ajs-unitTest-cleanFunction.git"
   },
   "author": "VarsPtz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VarsPtz/ajs-homeworks-vars-/issues"
+    "url": "https://github.com/VarsPtz/ajs-unitTest-cleanFunction/issues"
   },
-  "homepage": "https://github.com/VarsPtz/ajs-homeworks-vars-#readme",
+  "homepage": "https://github.com/VarsPtz/ajs-unitTest-cleanFunction#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
